@@ -13,12 +13,12 @@
  4. 请求理由：xxxxxの対応のため （xxxx改为相应业务名称）
  5. 提交申请等待通过
  
-申请通过后通过邮件获取登录ID 
-如: wang_jiabao@nhn-st.com
-登录链接：[https://github.nhnent.com/login][2]
-Username：wang_jiabao
-Password: what's up登录密码
-确保上述步骤无误后即可登陆成功。
+申请通过后通过邮件获取登录ID   
+如: wang_jiabao@nhn-st.com  
+登录链接：[https://github.nhnent.com/login][2]  
+Username：wang_jiabao  
+Password: what's up登录密码  
+确保上述步骤无误后即可登陆成功  
 
  
   [1]: http://apms.nhnent.com/aprvDoc/draft/E179
